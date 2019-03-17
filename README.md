@@ -9,3 +9,5 @@ Build the image with
 Run the image with
 
 	docker run --rm -it mlesniak/spring
+
+A corresponding blog article (in german) can be found [here](TODO: add link after publishing the article).
